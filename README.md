@@ -1,6 +1,10 @@
 # Dynamic-MDP
 # Designing an Optimal Policy for UAVs in a Dynamic MDP Environment to Prevent Birdstrikes
 
+![Demo GIF](https://github.com/ishapatel97/Dynamic-MDP/blob/main/demo_gif.gif)  
+![Bird UI GIF](https://github.com/ishapatel97/Dynamic-MDP/blob/main/bird_ui_gif.gif)  
+
+
 ## Introduction
 In this project, I’ve designed and implemented a **Dynamic Markov Decision Process (MDP)** to guide an **Unmanned Aerial Vehicle (UAV)** through a **3D environment** filled with moving obstacles—specifically, birds. The goal is to navigate the UAV to a target location while avoiding collisions, using a model-based approach called **Policy Iteration**.
 
